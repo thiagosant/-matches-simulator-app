@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Simulator</string>
+    <string name="center_text">Center Text</string>
 </resources>
